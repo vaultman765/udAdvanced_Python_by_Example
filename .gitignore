@@ -1,3 +1,6 @@
 # intelliJ
 out/
 .idea/
+
+# PDF files
+*.pdf
