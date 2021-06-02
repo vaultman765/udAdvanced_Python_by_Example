@@ -27,8 +27,8 @@ class Rectangle:
 
 
 # Create rectangle object
-rectangle = Rectangle(Point(randint(0, 9), randint(0, 9)),
-                      Point(randint(10, 19), randint(10, 19)))
+rectangle = Rectangle(Point(randint(0, 400), randint(0, 400)),
+                      Point(randint(10, 400), randint(10, 400)))
 
 # Print rectangle coordinates
 print("Rectangle Coordinates: ",
