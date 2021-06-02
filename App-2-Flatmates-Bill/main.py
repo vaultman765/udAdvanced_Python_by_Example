@@ -2,7 +2,7 @@ from flat import Bill, Flatmate
 from reports import PdfReport
 
 amount = float(input("Enter the bill amount: "))
-period = input("Enter the bill period (ex: June 2021): ")
+period = input("Enter the bill period (ex: June_2021): ")
 
 name1 = input("Enter your name: ")
 days_in_house1 = int(input(f"Enter the number of days {name1} stayed in house: "))
