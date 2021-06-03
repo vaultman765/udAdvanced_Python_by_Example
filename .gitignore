@@ -4,3 +4,6 @@ out/
 
 # PDF files
 *.pdf
+
+# png files
+*.png
